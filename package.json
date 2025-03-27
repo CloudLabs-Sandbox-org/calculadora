@@ -1,0 +1,13 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Proyecto para cálculos y datos meteorológicos",
+  "main": "calculator.js",
+  "scripts": {
+    "start": "node weather_script.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
